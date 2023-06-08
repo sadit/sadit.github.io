@@ -1,13 +1,13 @@
 +++
-title = "Software packages"
+title = "software packages"
 hascode = true
-date = Date(2023, 06, 08)
+date = date(2023, 06, 08)
 
-tags = ["syntax", "code"]
+tags = ["Julia", "Python"]
 +++
 
 
-# Diverse packages
+# Packages
 
 \toc
 
