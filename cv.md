@@ -6,6 +6,7 @@ tags = ["syntax", "code"]
 +++
 # Current activities - 2023
 
+- Charla en el seminario del posgrado de CICESE Ensenada "Recursos regionalizado para el procesamiento automático usando datos de redes sociales (Twitter)" (27 de enero 2023, <https://www.youtube.com/watch?v=7yoIa05rAWI>)
 - En el programa _Investigadoras e Investigadores por México_ de CONHACyT desde 2014 comisionado a INFOTEC Aguascalientes.
 - En estancia sabática de agosto 2022 a julio 2023 en Ensenada, Baja California.
 - Actualmente soy miembro del SNI con nivel 2.
