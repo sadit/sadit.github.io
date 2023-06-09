@@ -127,9 +127,9 @@ tags = ["syntax", "code"]
 
 ## K centers problem and non-linear dimension reduction.
 
-- [KCenters.jl] A package that implements some algorithms for solving the K centers problem that integrates with \texttt{SimilaritySearch}.
+- [KCenters.jl] A package that implements some algorithms for solving the K centers problem that integrates with `SimilaritySearch`.
   - <https://github.com/sadit/KCenters.jl>.
-- [SimSearchManifoldLearning.jl] A package that implements the UMAP algorithm for computing non-linear dimensional projections. It uses the \texttt{SimilaritySearch} package for speeding up the construction of the $k$nn graph and predictions. It also implements the necessary methods to use \texttt{SimilaritySearch} with external manifold learning methods, like those defined in the \texttt{ManifoldLearning} package.
+- [SimSearchManifoldLearning.jl] A package that implements the UMAP algorithm for computing non-linear dimensional projections. It uses the `SimilaritySearch` package for speeding up the construction of the $k$nn graph and predictions. It also implements the necessary methods to use `SimilaritySearch` with external manifold learning methods, like those defined in the `ManifoldLearning` package.
   - <https://github.com/sadit/SimSearchManifoldLearning.jl>.
 
 # Invited Presentations.
