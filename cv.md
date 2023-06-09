@@ -5,7 +5,7 @@ date = Date(2023, 06, 08)
 tags = ["syntax", "code"]
 +++
 
-# Current activities - 2023
+## Current activities - 2023
 
 - Charla en el seminario del posgrado de CICESE Ensenada "Recursos regionalizado para el procesamiento automático usando datos de redes sociales (Twitter)" (27 de enero 2023, <https://www.youtube.com/watch?v=7yoIa05rAWI>)
 - En el programa _Investigadoras e Investigadores por México_ de CONHACyT desde 2014 comisionado a INFOTEC Aguascalientes.
@@ -20,7 +20,7 @@ tags = ["syntax", "code"]
 
 \toc
 
-# Personal information
+## Personal information
 
 - name:  Eric S. Tellez
 - phone: (+52) 449 464 6909
@@ -29,7 +29,7 @@ tags = ["syntax", "code"]
 - nationality: Mexican.
 
 
-# Professional career
+## Professional career
 
 - [2012-2013] Postdoctoral position. CONACyT project: "Superscalable metric datasebases". School of Mathematics and Physics. _Universidad Michoacana de San Nicolás de Hidalgo_, Michoacán, MX.
 - [2010] Research visitor. Under the supervision of the Prof. Dr. Gonzalo Navarro. Granted with "Beca Mixta" CONACyT-scholarship. Department of Computer Science at the _University of Chile_, Santiago, Chile.
@@ -48,7 +48,7 @@ tags = ["syntax", "code"]
   - _Supervisor_: Professor Juan  J. Flores.
   - _Description_: A Java-framework that helps in the creation of animations of data structures operation was developed. This framework was used to animate several data structures used in traditional graph problems such as minimum spanning trees, and maximum flow problem, among other.
 
-# Appointments
+## Appointments
 - [2014-to date] CONAHCYT Researcher at INFOTEC Centro de Investigación e Innovación en Tecnologías de la Información y Comunicación, Aguascalientes, Aguascalientes, MX.
   - _Description_: The main activity is to research and supervise graduate students of the institution. My current research fields include Information retrieval, machine learning algorithms for text and multimodal classification, and similarity search.
   
@@ -66,7 +66,7 @@ tags = ["syntax", "code"]
 - [2005-2008] Teaching assistant at the Computing Science Laboratory. School of Electrical Engineering, Morelia, Michoacán, MX.
   - _Description_: I helped professors with their lectures and students in their laboratory works. I also give maintenance to computers, software, and the network of the laboratory.
 
-# Honors and Awards
+## Honors and Awards
 - [2022-2026] Member of the National Research System, Level II, National Council of Science and Technology (CONACyT), Mexico.
 - [2019-2021] Member of the National Research System, Level I, National Council of Science and Technology (CONACyT), Mexico.
 - [2016-2018] Member of the National Research System, Level C, National Council of Science and Technology (CONACyT), Mexico.
@@ -78,13 +78,13 @@ tags = ["syntax", "code"]
 - [2011] Best paper award on the International Conference Similarity Search with Applications, SISAP 2011. _Succinct nearest neighbor search_, a joint work with E. Chavez and G. Navarro.
 - [2003] Honour Mention, Bachelor in Electrical Engineering.
 
-# Research Statistics
+## Research Statistics
 - [Scholar Google] h-index: 15, Citations: 680.
   - <https://scholar.google.com/citations?hl=es&user=6hmLQWsAAAAJ&sortby=pubdate>.
 - [Scopus] h-index: 12, Citations: 390, Number of documents: 60.
   - <https://www.scopus.com/authid/detail.uri?authorId=18435018600>.
 
-# Peer-reviewed Journal Publications
+## Peer-reviewed Journal Publications
 1.  [2023] Eric S. Tellez, Daniela Moctezuma, Sabino Miranda, Mario Graff, Guillermo Ruiz. Regionalized models for Spanish language variations based on Twitter. Language Resources and Evaluation (2023), pp 1--31. Springer Netherlands Dordrecht.
 1.  [2023] Jaime Sainz-Santamaria, Daniela Moctezuma, Adan L. Martinez-Cruz, Eric S. Téllez, Mario Graff, Sabino Miranda-Jimenez. Contesting views on mobility restrictions in urban green spaces amid COVID-19—Insights from Twitter in Latin America and Spain. Cities 132 (2023), 104094
 1.  [2022] Eric S. Tellez, Guillermo Ruiz. "SimilaritySearch.jl: Autotuned nearest neighbor indexes for Julia". Journal of Open Source Software 7 (75) (2022), 4442.
@@ -109,9 +109,9 @@ tags = ["syntax", "code"]
 1.  [2015] Sergio Hernández, Sabino Miranda-Jiménez, Elio Villaseñor, Eric S. Tellez, and Mario Graff. "Minería de opinión en blogs financieros para la predicción de tendencias en mercados bursátiles." In: Research in Computing Science 92 (2015), pp. 101-109.
 1.  [2013] Eric S. Tellez, Edgar Chavez, and Gonzalo Navarro; "Succinct nearest neighbor search". In Information Systems 38.7 (2013), pp. 1019-1030. issn: 0306- 4379.
 
-# Software
+## Software
 
-## Text classification, search and clustering
+### Text classification, search and clustering
 - [EvoMSA] A Multilingual Evolutionary Approach for Sentiment Analysis.
   - <https://github.com/INGEOTEC/EvoMSA>.
 - [$\mu$TC] An automated text categorization framework based on hyperparameter optimization}
@@ -125,25 +125,25 @@ tags = ["syntax", "code"]
 - [SnowballStemmer.jl] A wrapper for the _libstemmer_ library.
   - <https://github.com/sadit/SnowballStemmer.jl>.
 
-## Similarity search
+### Similarity search
 - [SimilaritySearch.jl] A package to create similarity search indexes for the Julia language.
   - <https://github.com/sadit/SimilaritySearch.jl>.
 
-## K centers problem and non-linear dimension reduction
+### K centers problem and non-linear dimension reduction
 
 - [KCenters.jl] A package that implements some algorithms for solving the K centers problem that integrates with `SimilaritySearch`.
   - <https://github.com/sadit/KCenters.jl>.
 - [SimSearchManifoldLearning.jl] A package that implements the UMAP algorithm for computing non-linear dimensional projections. It uses the `SimilaritySearch` package for speeding up the construction of the $k$nn graph and predictions. It also implements the necessary methods to use `SimilaritySearch` with external manifold learning methods, like those defined in the `ManifoldLearning` package.
   - <https://github.com/sadit/SimSearchManifoldLearning.jl>.
 
-# Invited Presentations
+## Invited Presentations
 - Aguas con la ciencia
 - CIMAT
 - Bibliotecas UNAM
 - UNAM 
 - Seminario cicese
 
-# Conferences and Workshops
+## Conferences and Workshops
 - [ROPEC 2022] Ortiz-Bejar, J., Solorzano-Rodríguez, A. A., Silva-Chávez, J. C., Tellez, E. S., Graff, M., & Ortiz-Bejar, J. (2022, November). Sampling Algorithms for Unsupervised Prototype Selection. In 2022 IEEE International Autumn Meeting on Power, Electronics and Computing (ROPEC) (Vol. 6, pp. 1-6). IEEE.
 - [IberLEF 2021] José J. Calderon, Eric S. Tellez, Mario Graff. "DCCD-INFOTEC at MeOffendES@IberLEF21. Subtask 3: A Transfer learning approach based on EvoMSA's stacked generalization'. CEUR-WS.org, 2943. Malaga, Spain, September 2021.
 - [CLEF 2021] Hiram Cabrera, Sabino Miranda-Jimenez, and Eric S. Tellez. "INFOTEC-LaBD at PAN@CLEF21: Profiling hate speech spreaders on Twitter through emotion-based representations'. CEUR-WS.org, 2936. Bucharest, Romania, September 2021.
@@ -183,7 +183,7 @@ tags = ["syntax", "code"]
 - [SISAP 2009] Antonio Camarena-Ibarrola, Edgar Chávez, and Eric S. Tellez. “Robust radio broadcast monitoring using a multi-band spectral entropy signature”. Iberoamerican Congress on Pattern Recognition. Springer, Berlin, Heidelberg. 2009, pp. 587-594.
 - [CERMA 2007] Eric S. Tellez, Jose Ortiz and Mario Graff. "Pgsync: A multiple-reader/single-writer table replication tool for high loaded distributed relational sql databases". _Electronics, Robotics and Automotive Mechanics Conference (CERMA 2007)_. Cuernavaca, Morelos, Mexico, September 2007. IEEE.
 
-# Graduate Student Supervision
+## Graduate Student Supervision
 - [2021] Daniel Antonio Armas Texta. Complain mining in Twitter for mexican bank institutions (in Spanish). **M.Eng.** student. INFOTEC Centro de Investigación e Innovación en Tecnologías de las Información y Comunicación.  Co-supervisor Dr. Guillermo Ruiz.
 - [2021] Enrique Isidoro Vázquez Ramos. Measuring possible depression cases through text analysis in Mexican Tweeters (in Spanish). **M.Eng.** student. INFOTEC Centro de Investigación e Innovación en Tecnologías de las Información y Comunicación.  Co-supervisor Dr. Sabino Miranda-Jimenez.
 - [2020] Jose Ortiz Bejar. A Family of Classifiers based on Feature Space Transformations and Model Selection. **Ph.D.**. 2nd place in best thesis award by Mexican Artificial Intelligence Society (2020). INFOTEC Centro de Investigación e Innovación en Tecnologías de las Información y Comunicación. Co-supervisor Dr. Mario Graff.
@@ -192,7 +192,7 @@ tags = ["syntax", "code"]
 
 <!-- # Editor / Reviewer Experience. -->
 
-# Conference and Journals Service
+## Conference and Journals Service
 - [ROPEC] **Technical Program Committee** of the IEEE International Autumn Meeting on Power, Electronics and Computing; editions 2016-2021.
 - [ENC] **Technical Program Committee** of the Mexican International Conference on Computer Science, editions 2017-2019.
 - [COMIA] **Technical Program Committee** of Mexican Congress on Artificial Intelligence, editions 2017-2021.
@@ -200,14 +200,14 @@ tags = ["syntax", "code"]
 - [2010-2021] I have served as a reviewer for the following journals: Journal of discrete algorithms, Information systems, Information sciences, Expert systems with Applications, Knowledge-Based Systems, IEEE Access, IEEE Transactions on Knowledge Engineering, Progress in Artificial intelligence, IEEE Latin American Transactions, among others.
 
 
-# University service
+## University service
 - [2021-2022] Coordinator of the Doctorate in Sciences program in Data Science, INFOTEC Centro de Investigación e Innovación en Tecnologías de la Información y Comunicación, México.
 - [2019-2022] Coordinator of the Master in Sciences program in Data Science, INFOTEC Centro de Investigación e Innovación en Tecnologías de la Información y Comunicación, México.
 
 - [2019-2020] Member, Academic Council, INFOTEC Centro de Investigación e Innovación en Tecnologías de la Información y Comunicación, México.
 - [2019-2019] Coordinator of the Online Master in Data Science, INFOTEC Centro de Investigación e Innovación en Tecnologías de la Información y Comunicación, México.
 
-# Research Support
+## Research Support
 - [2020-2024] Mexican National Council of Science and Technology (CONACYT) grant "Development of Smart Tools for Applications of Fasorial Measurement Units in the National Interconnected Electrical System". Total amount: \$31,495,918.00 (MXN). Role: Participant. Principal Applicant: Claudio Ruben Fuerte Esquivel.
 - [2020-2023] Mexican National Council of Science and Technology (CONACYT) grant "Multi-modal learning based on parameter optimization for data involving  images and texts". Total amount: \$1,419,342.05 (MXN). Role: Participant. Principal Applicant: Daniela Moctezuma Ochoa.
 
