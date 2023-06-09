@@ -21,8 +21,8 @@ tags = ["syntax", "code"]
 # Previous
 
 - name:  Eric S. Tellez
-- phone: +52) 449 464 6909
-- mail: eric.tellez@infotec.mx
+- phone: (+52) 449 464 6909
+- mail: donsadit@gmail.com, eric.tellez@infotec.mx
 - address: Circuito Tecnopolo Sur 112, Tecnopolo Pocitos, 20313, Aguascalientes, Ags. México.
 - nationality: Mexican.
 
@@ -34,7 +34,7 @@ tags = ["syntax", "code"]
 - [2008-2012] D.Sc. in Electrical Engineering with option in Computing Systems. School of Electrical Engineering at the _Universidad Michoacana de San Nicolás de Hidalgo_, Michoacán, MX. 
   - _Thesis title_: Practical Proximity Searching in Large Metric Databases.
   - _Supervisor_: Dr. Edgar Chávez. 
-  - _Description_: The work presents algorithms and data structures to solve the similarity search problem efficiently under the metric space model. The keywords practical and efficient are regarding the competitive tradeoffs achieved regarding memory, speed, and result quality.h
+  - _Description_: The work presents algorithms and data structures to solve the similarity search problem efficiently under the metric space model. The keywords practical and efficient are regarding the competitive tradeoffs achieved regarding memory, speed, and result quality.
 
 - [2003-2006] M.Sc. in Electrical Engineering with option in Computing Systems. School of Electrical Engineering at the _Universidad Michoacana de San Nicolás de Hidalgo_, Michoacán, MX. _Master Thesis_. 
   - _Thesis title_: Distributed Information Retrieval (in Spanish).
@@ -65,7 +65,7 @@ tags = ["syntax", "code"]
   - _Description_: I helped professors with their lectures and students in their laboratory works. I also give maintenance to computers, software, and the network of the laboratory.
 
 # Honors and Awards.
-- [2022-2025] Member of the National Research System, Level II, National Council of Science and Technology (CONACyT), Mexico.
+- [2022-2026] Member of the National Research System, Level II, National Council of Science and Technology (CONACyT), Mexico.
 - [2019-2021] Member of the National Research System, Level I, National Council of Science and Technology (CONACyT), Mexico.
 - [2016-2018] Member of the National Research System, Level C, National Council of Science and Technology (CONACyT), Mexico.
 - [2018] Best team at Aggressiveness Identification Task at MEX-A3T Competition. IberEval 2018 workshop of the SEPLN Conference September 18, 2018.
