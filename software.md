@@ -53,6 +53,12 @@ These structs integrates with the SimilaritySearch `environment`, such that you 
 
 - repository: <https://github.com/sadit/InvertedFiles.jl>
 
+### SlicedSearch.jl: Turbo Scan
+Implements an innovative $k$-nearest neighbor search solution, Turbo Scan (TS), specifically designed to address the challenges associated with high-dimensionality data and rare workloads where building indexes cannot be effectively amortized over time. We recognize numerous scenarios where the overhead of constructing an index cannot be justified due to the limited number of queries performed on the dataset.
+
+**Links**
+- repository: <https://github.com/sadit/SlicedSearch.jl>
+
 ### TextSearch.jl
 `TextSearch.jl` is a package to create vector representations of text and seach them, mostly, independently of the language.
 It provides the following concepts:
