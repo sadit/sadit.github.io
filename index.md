@@ -18,7 +18,7 @@ categorización de texto automática, e inteligencia computacional, y aplicacion
 ## Perfiles
 - [Github](https://github.com/sadit/)
 - [Scholar google](https://scholar.google.com/citations?user=6hmLQWsAAAAJ&hl=es)
-- [Scopus](<https://www.scopus.com/authid/detail.uri?authorId=18435018600)
+- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=18435018600)
 
 
 
