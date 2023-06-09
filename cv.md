@@ -85,27 +85,29 @@ tags = ["syntax", "code"]
   - <https://www.scopus.com/authid/detail.uri?authorId=18435018600>.
 
 # Peer-reviewed Journal Publications
-- [2022] Jose Ortiz-Bejar, Mario RA Paternina, Alejandro Zamora-Mendez, L. Lugnani, Eric S. Tellez. "Power system coherency assessment by the affinity propagation algorithm and distance correlation.". In: Sustainable Energy, Grids, and Networks (2022).
-- [2022] Mario Graff, Daniela Moctezuma, Sabino Miranda-Jimenez, and Eric S. Tellez. "A Python library for exploratory data analysis on twitter data based tokens and aggregated origin-destination information." In: Computers \& Geosciences (2022).
-- [2021] Eric S. Tellez, Guillermo Ruiz, Edgar Chavez, and Mario Graff. "A scalable solution to the nearest neighbor search problem through local-search methods on neighbor graphs." In: Pattern Analysis and Applications (2021), pp. 1-15.
-- [2020] José Ortiz-Bejar, Eric S. Tellez, Mario Graff, Daniela Moctezuma, and Sabino Miranda-Jimenez. "Improving $k$ nearest neighbors and na\"ive bayes classifiers through space transformations and model selection." In: IEEE Access(2020), Vol 8. pp. 221669-221688.
-- [2020] Graff, Mario, Sabino Miranda-Jimenez, Eric S. Tellez, and Daniela Moctezuma. "EvoMSA: A Multilingual Evolutionary Approach for Sentiment Analysis". In: IEEE Computational Intelligence Magazine 15.1 (2020), pp. 76-88.
-- [2020] Angello Hoyos, Ubaldo Ruiz, Edgar Chavez, and Eric S. Tellez. “Self-indexed motion planning”. In: Information Systems 87 (2020).
-- [2020] Guillermo Ruiz, Edgar Chavez, Ubaldo Ruiz, and Eric S. Tellez. “Extreme pivots: a pivot selection strategy for faster metric search”. In: Knowledge and Information Systems (2020), pp. 2349-2382.
-- [2019] Moctezuma, Daniela, Eric S. Tellez, Sabino Miranda-Jiménez, and Mario Graff. “Appearance model update based on online learning and soft-biometrics traits for people re-identification in multi-camera environments”. In: IET Image Processing 13.12 (2019), pp. 2162-2168.
-- [2019] Pellegrin, Luis, Octavio Loyola-González, José Ortiz-Bejar, Miguel Angel Medina-Pérez, Andres Eduardo Gutiérrez-Rodríguez, Eric S. Tellez, Mario Graff, Sabino Miranda-Jiménez, Daniela Moctezuma, Mauricio García-Limón, et. al. “Image Annotation as Text-Image Matching: Challenge Design and Results”. In: Computación y Sistemas 23.4 (2019).
-- [2018] Guillen, Daniel, Mario R. Arrieta Paternina, Jose Ortiz-Bejar, Rajesh Kumar Tripathy, Alejandro Zamora-Mendez, Ruben Tapia-Olvera, and Eric S. Tellez. “Fault detection and classification in transmission lines based on a PSD index”. In: IET Generation, Transmission \& Distribution 12.18 (2018), pp. 4070-4078.
-- [2018] Eric S. Tellez, Daniela Moctezuma, Sabino Miranda-Jimenez, and Mario Graff. “An automated text categorization framework based on hyperparameter optimization”. In: Knowledge-Based Systems 149 (2018), pp. 110-123.
-- [2017] Eric S. Tellez, Sabino Miranda-Jimenez, Mario Graff, Daniela Moctezuma, Oscar S. Siordia, and Elio A. Villaseñor. “A case study of Spanish text transformations for twitter sentiment analysis”. In: Expert Systems with Applications 81 (2017), pp. 457-471.
-- [2017] Eric S. Tellez,  Sabino Miranda-Jimenez, Mario Graff, Daniela Moctezuma, Ranyart R. Suarez, and Oscar S. Siordia. “A simple approach to multilingual polarity classification in Twitter”. In: Pattern Recognition Letters 94 (2017), pp. 68-74.
-- [2016] Mario Graff Hugo Jair Escalante, Fernando Ornelas-Tellez, and Eric S. Tellez. “Time series forecasting with genetic programming”. In: Natural Computing (2016), pp. 1-10.
-- [2016] Eric S. Tellez, Guillermo Ruiz, and Edgar Chavez. “Singleton indexes for nearest neighbor search”. In: Information Systems 60 (2016), pp. 50-68.
-- [2016] Edgar Chávez, Mario Graff, Gonzalo Navarro, and Eric S. Téllez. “Near neighbor searching with K nearest references”. In: Information Systems 51 (2015), pp. 43-61.
-- [2015] Mario Graff, and Eric S. Téllez. “Programación Genética en Problemas Multidimensionales”. In: Revista Iztatl Computación 8 (2015), pp. 27-36. issn: 2007-9958.
-<!-- [2015] Mario Graff, Eric S. Tellez, Elio Villasenor, and Sabino Miranda-Jiménez. “Semantic Genetic Programming Operators Based on Projections in the Phenotype Space.” In: Research in Computing Science 94 (2015), pp. 73-85.
-- [2015] Sergio Hernández, Sabino Miranda-Jiménez, Elio Villaseñor, Eric S. Tellez, and Mario Graff. "Minería de opinión en blogs financieros para la predicción de tendencias en mercados bursátiles." In: Research in Computing Science 92 (2015), pp. 101-109.
--->
-- [2013] Eric S. Tellez, Edgar Chavez, and Gonzalo Navarro; "Succinct nearest neighbor search". In Information Systems 38.7 (2013), pp. 1019-1030. issn: 0306- 4379.
+1.  [2023] Eric S. Tellez, Daniela Moctezuma, Sabino Miranda, Mario Graff, Guillermo Ruiz. Regionalized models for Spanish language variations based on Twitter. Language Resources and Evaluation (2023), pp 1--31. Springer Netherlands Dordrecht.
+1.  [2023] Jaime Sainz-Santamaria, Daniela Moctezuma, Adan L. Martinez-Cruz, Eric S. Téllez, Mario Graff, Sabino Miranda-Jimenez. Contesting views on mobility restrictions in urban green spaces amid COVID-19—Insights from Twitter in Latin America and Spain. Cities 132 (2023), 104094
+1.  [2022] Eric S. Tellez, Guillermo Ruiz. "SimilaritySearch.jl: Autotuned nearest neighbor indexes for Julia". Journal of Open Source Software 7 (75) (2022), 4442.
+1.  [2022] Jose Ortiz-Bejar, Mario RA Paternina, Alejandro Zamora-Mendez, L. Lugnani, Eric S. Tellez. "Power system coherency assessment by the affinity propagation algorithm and distance correlation.". In: Sustainable Energy, Grids, and Networks (2022).
+1.  [2022] Mario Graff, Daniela Moctezuma, Sabino Miranda-Jimenez, and Eric S. Tellez. "A Python library for exploratory data analysis on twitter data based tokens and aggregated origin-destination information." In: Computers & Geosciences (2022).
+1.  [2021] Eric S. Tellez, Guillermo Ruiz, Edgar Chavez, and Mario Graff. "A scalable solution to the nearest neighbor search problem through local-search methods on neighbor graphs." In: Pattern Analysis and Applications (2021), pp. 1-15.
+1.  [2020] José Ortiz-Bejar, Eric S. Tellez, Mario Graff, Daniela Moctezuma, and Sabino Miranda-Jimenez. "Improving $k$ nearest neighbors and na\"ive bayes classifiers through space transformations and model selection." In: IEEE Access(2020), Vol 8. pp. 221669-221688.
+1.  [2020] Graff, Mario, Sabino Miranda-Jimenez, Eric S. Tellez, and Daniela Moctezuma. "EvoMSA: A Multilingual Evolutionary Approach for Sentiment Analysis". In: IEEE Computational Intelligence Magazine 15.1 (2020), pp. 76-88.
+1.  [2020] Angello Hoyos, Ubaldo Ruiz, Edgar Chavez, and Eric S. Tellez. “Self-indexed motion planning”. In: Information Systems 87 (2020).
+1.  [2020] Guillermo Ruiz, Edgar Chavez, Ubaldo Ruiz, and Eric S. Tellez. “Extreme pivots: a pivot selection strategy for faster metric search”. In: Knowledge and Information Systems (2020), pp. 2349-2382.
+1.  [2019] Moctezuma, Daniela, Eric S. Tellez, Sabino Miranda-Jiménez, and Mario Graff. “Appearance model update based on online learning and soft-biometrics traits for people re-identification in multi-camera environments”. In: IET Image Processing 13.12 (2019), pp. 2162-2168.
+1.  [2019] Pellegrin, Luis, Octavio Loyola-González, José Ortiz-Bejar, Miguel Angel Medina-Pérez, Andres Eduardo Gutiérrez-Rodríguez, Eric S. Tellez, Mario Graff, Sabino Miranda-Jiménez, Daniela Moctezuma, Mauricio García-Limón, et. al. “Image Annotation as Text-Image Matching: Challenge Design and Results”. In: Computación y Sistemas 23.4 (2019).
+1.  [2018] Guillen, Daniel, Mario R. Arrieta Paternina, Jose Ortiz-Bejar, Rajesh Kumar Tripathy, Alejandro Zamora-Mendez, Ruben Tapia-Olvera, and Eric S. Tellez. “Fault detection and classification in transmission lines based on a PSD index”. In: IET Generation, Transmission & Distribution 12.18 (2018), pp. 4070-4078.
+1.  [2018] Eric S. Tellez, Daniela Moctezuma, Sabino Miranda-Jimenez, and Mario Graff. “An automated text categorization framework based on hyperparameter optimization”. In: Knowledge-Based Systems 149 (2018), pp. 110-123.
+1.  [2017] Eric S. Tellez, Sabino Miranda-Jimenez, Mario Graff, Daniela Moctezuma, Oscar S. Siordia, and Elio A. Villaseñor. “A case study of Spanish text transformations for twitter sentiment analysis”. In: Expert Systems with Applications 81 (2017), pp. 457-471.
+1.  [2017] Eric S. Tellez,  Sabino Miranda-Jimenez, Mario Graff, Daniela Moctezuma, Ranyart R. Suarez, and Oscar S. Siordia. “A simple approach to multilingual polarity classification in Twitter”. In: Pattern Recognition Letters 94 (2017), pp. 68-74.
+1.  [2016] Mario Graff Hugo Jair Escalante, Fernando Ornelas-Tellez, and Eric S. Tellez. “Time series forecasting with genetic programming”. In: Natural Computing (2016), pp. 1-10.
+1.  [2016] Eric S. Tellez, Guillermo Ruiz, and Edgar Chavez. “Singleton indexes for nearest neighbor search”. In: Information Systems 60 (2016), pp. 50-68.
+1.  [2016] Edgar Chávez, Mario Graff, Gonzalo Navarro, and Eric S. Téllez. “Near neighbor searching with K nearest references”. In: Information Systems 51 (2015), pp. 43-61.
+1.  [2015] Mario Graff, and Eric S. Téllez. “Programación Genética en Problemas Multidimensionales”. In: Revista Iztatl Computación 8 (2015), pp. 27-36. issn: 2007-9958.
+1.  [2015] Mario Graff, Eric S. Tellez, Elio Villasenor, and Sabino Miranda-Jiménez. “Semantic Genetic Programming Operators Based on Projections in the Phenotype Space.” In: Research in Computing Science 94 (2015), pp. 73-85.
+1.  [2015] Sergio Hernández, Sabino Miranda-Jiménez, Elio Villaseñor, Eric S. Tellez, and Mario Graff. "Minería de opinión en blogs financieros para la predicción de tendencias en mercados bursátiles." In: Research in Computing Science 92 (2015), pp. 101-109.
+1.  [2013] Eric S. Tellez, Edgar Chavez, and Gonzalo Navarro; "Succinct nearest neighbor search". In Information Systems 38.7 (2013), pp. 1019-1030. issn: 0306- 4379.
 
 # Software
 
@@ -135,8 +137,14 @@ tags = ["syntax", "code"]
   - <https://github.com/sadit/SimSearchManifoldLearning.jl>.
 
 # Invited Presentations
+- Aguas con la ciencia
+- CIMAT
+- Bibliotecas UNAM
+- UNAM 
+- Seminario cicese
 
 # Conferences and Workshops
+- [ROPEC 2022] Ortiz-Bejar, J., Solorzano-Rodríguez, A. A., Silva-Chávez, J. C., Tellez, E. S., Graff, M., & Ortiz-Bejar, J. (2022, November). Sampling Algorithms for Unsupervised Prototype Selection. In 2022 IEEE International Autumn Meeting on Power, Electronics and Computing (ROPEC) (Vol. 6, pp. 1-6). IEEE.
 - [IberLEF 2021] José J. Calderon, Eric S. Tellez, Mario Graff. "DCCD-INFOTEC at MeOffendES@IberLEF21. Subtask 3: A Transfer learning approach based on EvoMSA's stacked generalization'. CEUR-WS.org, 2943. Malaga, Spain, September 2021.
 - [CLEF 2021] Hiram Cabrera, Sabino Miranda-Jimenez, and Eric S. Tellez. "INFOTEC-LaBD at PAN@CLEF21: Profiling hate speech spreaders on Twitter through emotion-based representations'. CEUR-WS.org, 2936. Bucharest, Romania, September 2021.
 - [SEMEVAL 2020b] Guillermo Ruiz, Eric S. Tellez, Daniela Moctezuma, Sabino Miranda-Jimenez, Tania Ramirez-delReal, Mario-Graff. "Infotec+CentroGEO at SemEval-2020 Task 8: Deep learning and text categorization approach for memes classification". 14th International Workshop on Semantic Evaluations. pp. 1141-1147. Barcelona (online), December 2020.
