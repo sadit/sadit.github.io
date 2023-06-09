@@ -29,41 +29,40 @@ tags = ["syntax", "code"]
 
 ## Professional career
 
-- [2012-2013] Postdoctoral position}{CONACyT project: "Superscalable metric datasebases"}{School of Mathematics and Physics}{Universidad Michoacana de San Nicolás de Hidalgo}{Michoacán, MX}{.
-- [2010] Research visitor}{Under the supervision of the Prof. Dr. Gonzalo Navarro. Granted with "Beca Mixta" CONACyT-scholarship.}{Department of Computer Science}{University of Chile}{Chile}{.
-- [2008-2012] D.Sc. in Electrical Engineering with option in Computing Systems}{School of Electrical Engineering}{Universidad Michoacana de San Nicolás de Hidalgo}{Michoacán, MX}{} 
-- [Thesis title] Practical Proximity Searching in Large Metric Databases.
-- [Supervisor] Dr. Edgar Chávez} 
-- [Description] The work presents algorithms and data structures to solve the similarity search problem efficiently under the metric space model. The keywords practical and efficient are regarding the competitive tradeoffs achieved regarding memory, speed, and result quality.
-%- [] } % each cv item introduces a paragraph
+- [2012-2013] Postdoctoral position. CONACyT project: "Superscalable metric datasebases". School of Mathematics and Physics. _Universidad Michoacana de San Nicolás de Hidalgo_, Michoacán, MX.
+- [2010] Research visitor. Under the supervision of the Prof. Dr. Gonzalo Navarro. Granted with "Beca Mixta" CONACyT-scholarship. Department of Computer Science at the _University of Chile_, Santiago, Chile.
+- [2008-2012] D.Sc. in Electrical Engineering with option in Computing Systems. School of Electrical Engineering at the _Universidad Michoacana de San Nicolás de Hidalgo_, Michoacán, MX. 
+  - _Thesis title_: Practical Proximity Searching in Large Metric Databases.
+  - _Supervisor_: Dr. Edgar Chávez. 
+  - _Description_: The work presents algorithms and data structures to solve the similarity search problem efficiently under the metric space model. The keywords practical and efficient are regarding the competitive tradeoffs achieved regarding memory, speed, and result quality.h
 
 - [2003-2006] M.Sc. in Electrical Engineering with option in Computing Systems}{School of Electrical Engineering}{Universidad Michoacana de San Nicolás de Hidalgo}{Michoacán, MX}{_Master Thesis_} 
-- [Thesis title] Distributed Information Retrieval (in Spanish).
-- [Supervisor] Dr. Edgar Chávez} 
-- [Description] The work studies several techniques to perform full-text searches in distributed environments. It introduces an information retrieval model that is aware of keywords, and it also explores different network topologies to retrieve information effectively.
+  - _Thesis title_: Distributed Information Retrieval (in Spanish).
+  - _Supervisor_: Dr. Edgar Chávez
+  - _Description_: The work studies several techniques to perform full-text searches in distributed environments. It introduces an information retrieval model that is aware of keywords, and it also explores different network topologies to retrieve information effectively.
 
-- [1998-2003] B.Sc. Electrical Engineering}{School of Electrical Engineering}{Universidad Michoacana de San Nicolás de Hidalgo}{Michoacán, MX}{_Undergraduate Thesis_} 
-- [Thesis title] Data Structures and Algorithms for Network Optimization (in Spanish, a joint work with Mario Graff).} 
-- [Supervisor] Professor Juan  J. Flores.} 
-- [Description] A Java-framework that helps in the creation of animations of data structures operation was developed. This framework was used to animate several data structures used in traditional graph problems such as minimum spanning trees, and maximum flow problem, among others.
+- [1998-2003] B.Sc. Electrical Engineering. School of Electrical Engineering at the _Universidad Michoacana de San Nicolás de Hidalgo_, Michoacán, MX. _Undergraduate Thesis_. 
+  - _Thesis title_: Data Structures and Algorithms for Network Optimization (in Spanish, a joint work with Mario Graff).
+  - _Supervisor_: Professor Juan  J. Flores.
+  - _Description_: A Java-framework that helps in the creation of animations of data structures operation was developed. This framework was used to animate several data structures used in traditional graph problems such as minimum spanning trees, and maximum flow problem, among other.
 
 # Appointments.
-- [2014-to date] CONACYT Researcher}{INFOTEC Centro de Investigación e Innovación en Tecnologías de la Información y Comunicación}{}{Aguascalientes, Aguascalientes, MX}{.
-- [Description] The main activity is to research and supervise graduate students of the institution. My current research fields include Information retrieval, machine learning algorithms for text and multimodal classification, and similarity search. .
+- [2014-to date] CONAHCYT Researcher at INFOTEC Centro de Investigación e Innovación en Tecnologías de la Información y Comunicación, Aguascalientes, Aguascalientes, MX.
+  - _Description_: The main activity is to research and supervise graduate students of the institution. My current research fields include Information retrieval, machine learning algorithms for text and multimodal classification, and similarity search.
+  
+- [Feb. 2013-Aug. 2014] Software Engineer. Grupo Deipi S.A. de C.V., Morelia, Michoacán, MEX-A3T.
+  - _Description_: The principal activity was to work on developing solutions for the company business.
 
-- [Feb. 2013-Aug. 2014] Software Engineer}{}{Grupo Deipi S.A. de C.V.}{Morelia, Michoacán, MX}{.
-- [Description] The principal activity was to work on developing solutions for the company business.
+- [Aug. 2013-Jan. 2014] Assistant Professor at the School of Engineering at the _University of Baja California_, Mexicali, Baja California, MX.
+  - _Description_: The principal activity was to work on my research interests: Similarity search algorithms and information retrieval. I also give lectures in both undergraduate and graduate engineering programs.
 
-- [Aug. 2013-Jan. 2014] Assistant Professor}{University of Baja California}{School of Engineering}{Mexicali, Baja California, MX}{.
-- [Description] The principal activity was to work on my research interests: Similarity search algorithms and information retrieval. I also give lectures in both undergraduate and graduate engineering programs.
+- [2006-2009] System Administrator and Developer, Subdirección de Ingresos at the _State Government of Michoacán de Ocampo_, Morelia, Michoacán, MX.
+  - _Description_: Web servers and database server administration for the vehicle registration system of Michoacán, México. I also worked on several small systems and backend libraries.
 
-- [2006-2009] System Administrator and Developer}{Subdirección de Ingresos}{State Government of Michoacán de Ocampo}{Morelia, Michoacán, MX}{.
-- [Description] I administered web servers and database servers for the vehicle registration system of Michoacán, México. I also worked on several small systems and backend libraries.
+- [2006-2008] Lecturer in several undergraduate computing courses. School of Electrical Engineering and School of mathematics and physics, Universidad Michoacana de San Nicolás de Hidalgo, Morelia, Michoacán, MX.
 
-- [2006-2008] Lecturer in several undergraduate computing courses}{School of Electrical Engineering, School of mathematics and physics}{Universidad Michoacana de San Nicolás de Hidalgo}{Morelia, Michoacán, MX}{.
-
-- [2005-2008] Teaching assistant (Computing Science Laboratory)}{School of Electrical Engineering}{}{Morelia, Michoacán, MX}{.
-- [Description] I helped professors with their lectures and students in their laboratory works. I also give maintenance to computers, software, and the network of the laboratory.
+- [2005-2008] Teaching assistant at the Computing Science Laboratory. School of Electrical Engineering, Morelia, Michoacán, MX.
+  - _Description_: I helped professors with their lectures and students in their laboratory works. I also give maintenance to computers, software, and the network of the laboratory.
 
 # Honors and Awards.
 - [2022-2025] Member of the National Research System, Level II, National Council of Science and Technology (CONACyT), Mexico.
@@ -79,9 +78,9 @@ tags = ["syntax", "code"]
 
 # Research Statistics.
 - [Scholar Google] h-index: 15, Citations: 680.
-- [] <https://scholar.google.com/citations?hl=es&user=6hmLQWsAAAAJ&sortby=pubdate>.
+  - <https://scholar.google.com/citations?hl=es&user=6hmLQWsAAAAJ&sortby=pubdate>.
 - [Scopus] h-index: 12, Citations: 390, Number of documents: 60.
-- [] <https://www.scopus.com/authid/detail.uri?authorId=18435018600>.
+  - <https://www.scopus.com/authid/detail.uri?authorId=18435018600>.
 
 # Peer-reviewed Journal Publications.
 - [2022] Jose Ortiz-Bejar, Mario RA Paternina, Alejandro Zamora-Mendez, L. Lugnani, Eric S. Tellez. "Power system coherency assessment by the affinity propagation algorithm and distance correlation.". In: Sustainable Energy, Grids, and Networks (2022).
@@ -101,37 +100,37 @@ tags = ["syntax", "code"]
 - [2016] Eric S. Tellez, Guillermo Ruiz, and Edgar Chavez. “Singleton indexes for nearest neighbor search”. In: Information Systems 60 (2016), pp. 50-68.
 - [2016] Edgar Chávez, Mario Graff, Gonzalo Navarro, and Eric S. Téllez. “Near neighbor searching with K nearest references”. In: Information Systems 51 (2015), pp. 43-61.
 - [2015] Mario Graff, and Eric S. Téllez. “Programación Genética en Problemas Multidimensionales”. In: Revista Iztatl Computación 8 (2015), pp. 27-36. issn: 2007-9958.
-%- [2015] Mario Graff, Eric S. Tellez, Elio Villasenor, and Sabino Miranda-Jiménez. “Semantic Genetic Programming Operators Based on Projections in the Phenotype Space.” In: Research in Computing Science 94 (2015), pp. 73-85.
-%- [2015] Sergio Hernández, Sabino Miranda-Jiménez, Elio Villaseñor, Eric S. Tellez, and Mario Graff. "Minería de opinión en blogs financieros para la predicción de tendencias en mercados bursátiles." In: Research in Computing Science 92 (2015), pp. 101-109.
+<!-- [2015] Mario Graff, Eric S. Tellez, Elio Villasenor, and Sabino Miranda-Jiménez. “Semantic Genetic Programming Operators Based on Projections in the Phenotype Space.” In: Research in Computing Science 94 (2015), pp. 73-85.
+- [2015] Sergio Hernández, Sabino Miranda-Jiménez, Elio Villaseñor, Eric S. Tellez, and Mario Graff. "Minería de opinión en blogs financieros para la predicción de tendencias en mercados bursátiles." In: Research in Computing Science 92 (2015), pp. 101-109.
+-->
 - [2013] Eric S. Tellez, Edgar Chavez, and Gonzalo Navarro; "Succinct nearest neighbor search". In Information Systems 38.7 (2013), pp. 1019-1030. issn: 0306- 4379.
 
 # Software.
 
 ## Text classification, search and clustering.
 - [EvoMSA] A Multilingual Evolutionary Approach for Sentiment Analysis.
-- [] <https://github.com/INGEOTEC/EvoMSA>.
-- [$\mu$TC] An automated text categorization framework based on hyperparameter optimization} \cvitem{}{<https://github.com/INGEOTEC/microtc>.
+  - <https://github.com/INGEOTEC/EvoMSA>.
+- [$\mu$TC] An automated text categorization framework based on hyperparameter optimization}
+  - <https://github.com/INGEOTEC/microtc>.
 - [B4MSA] A Simple Approach to Multilingual Polarity Classification in Twitter.
-- [] <https://github.com/INGEOTEC/b4msa>.
+  -  <https://github.com/INGEOTEC/b4msa>.
 - [TextSearch.jl] A package for creating text models and full-text indexes for the Julia language.
-- [] <https://github.com/sadit/TextSearch.jl>.
-
+  - <https://github.com/sadit/TextSearch.jl>.
 - [TextClassification.jl] A package for creating text classifiers based on full model selection.
-- [] <https://github.com/sadit/TextClassification.jl>.
+  - <https://github.com/sadit/TextClassification.jl>.
 - [SnowballStemmer.jl] A wrapper for the _libstemmer_ library.
-- [] <https://github.com/sadit/SnowballStemmer.jl>.
+  - <https://github.com/sadit/SnowballStemmer.jl>.
 
 ## Similarity search.
 - [SimilaritySearch.jl] A package to create similarity search indexes for the Julia language.
-- [] < https://github.com/sadit/SimilaritySearch.jl>.
+  - <https://github.com/sadit/SimilaritySearch.jl>.
 
 ## K centers problem and non-linear dimension reduction.
 
 - [KCenters.jl] A package that implements some algorithms for solving the K centers problem that integrates with \texttt{SimilaritySearch}.
-- [] <https://github.com/sadit/KCenters.jl>.
-- [SimSearchManifoldLearning.jl] .
-- [] A package that implements the UMAP algorithm for computing non-linear dimensional projections. It uses the \texttt{SimilaritySearch} package for speeding up the construction of the $k$nn graph and predictions. It also implements the necessary methods to use \texttt{SimilaritySearch} with external manifold learning methods, like those defined in the \texttt{ManifoldLearning} package.
-- [] <https://github.com/sadit/SimSearchManifoldLearning.jl>.
+  - <https://github.com/sadit/KCenters.jl>.
+- [SimSearchManifoldLearning.jl] A package that implements the UMAP algorithm for computing non-linear dimensional projections. It uses the \texttt{SimilaritySearch} package for speeding up the construction of the $k$nn graph and predictions. It also implements the necessary methods to use \texttt{SimilaritySearch} with external manifold learning methods, like those defined in the \texttt{ManifoldLearning} package.
+  - <https://github.com/sadit/SimSearchManifoldLearning.jl>.
 
 # Invited Presentations.
 
