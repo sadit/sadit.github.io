@@ -32,11 +32,15 @@ The main set of functions are:
 - examples and demos: <https://sadit.github.io/SimilaritySearchDemos/> 
 
 ### SpatialAccessTrees.jl
+Spatial access trees are a family of metric trees having excellent performance on low and medium dimensional datasets.
+
+
+The package supports trading accuracy and search time strategies for spatial access trees.
 
 **Links**
 - repository: <https://github.com/sadit/SpatialAccessTrees.jl>
 
-### `InvertedFiles.jl`
+### InvertedFiles.jl
 This package implements inverted files, also known as inverted indexes, that are data structures that represents a large sparse matrix, specially organized to compute some distance functions and fetch k nearest neighbors. It is mainly used for full text search and other search tasks where data can be formulated as large sparse vectors. In particular, the package implements three types of inverted files:
 
 - `WeightedInvertedFile`: Inverted files for sparse vectors, it can solve nearest neighbors using the normalized cosine distance, 
@@ -49,7 +53,7 @@ These structs integrates with the SimilaritySearch `environment`, such that you 
 
 - repository: <https://github.com/sadit/InvertedFiles.jl>
 
-### `TextSearch.jl`
+### TextSearch.jl
 `TextSearch.jl` is a package to create vector representations of text and seach them, mostly, independently of the language.
 It provides the following concepts:
 
