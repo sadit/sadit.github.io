@@ -36,7 +36,7 @@ tags = ["syntax", "code"]
   - _Supervisor_: Dr. Edgar Chávez. 
   - _Description_: The work presents algorithms and data structures to solve the similarity search problem efficiently under the metric space model. The keywords practical and efficient are regarding the competitive tradeoffs achieved regarding memory, speed, and result quality.h
 
-- [2003-2006] M.Sc. in Electrical Engineering with option in Computing Systems}{School of Electrical Engineering}{Universidad Michoacana de San Nicolás de Hidalgo}{Michoacán, MX}{_Master Thesis_} 
+- [2003-2006] M.Sc. in Electrical Engineering with option in Computing Systems. School of Electrical Engineering at the _Universidad Michoacana de San Nicolás de Hidalgo_, Michoacán, MX. _Master Thesis_. 
   - _Thesis title_: Distributed Information Retrieval (in Spanish).
   - _Supervisor_: Dr. Edgar Chávez
   - _Description_: The work studies several techniques to perform full-text searches in distributed environments. It introduces an information retrieval model that is aware of keywords, and it also explores different network topologies to retrieve information effectively.
@@ -50,7 +50,7 @@ tags = ["syntax", "code"]
 - [2014-to date] CONAHCYT Researcher at INFOTEC Centro de Investigación e Innovación en Tecnologías de la Información y Comunicación, Aguascalientes, Aguascalientes, MX.
   - _Description_: The main activity is to research and supervise graduate students of the institution. My current research fields include Information retrieval, machine learning algorithms for text and multimodal classification, and similarity search.
   
-- [Feb. 2013-Aug. 2014] Software Engineer. Grupo Deipi S.A. de C.V., Morelia, Michoacán, MEX-A3T.
+- [Feb. 2013-Aug. 2014] Software Engineer. Grupo Deipi S.A. de C.V., Morelia, Michoacán, México.
   - _Description_: The principal activity was to work on developing solutions for the company business.
 
 - [Aug. 2013-Jan. 2014] Assistant Professor at the School of Engineering at the _University of Baja California_, Mexicali, Baja California, MX.
@@ -70,10 +70,10 @@ tags = ["syntax", "code"]
 - [2016-2018] Member of the National Research System, Level C, National Council of Science and Technology (CONACyT), Mexico.
 - [2018] Best team at Aggressiveness Identification Task at MEX-A3T Competition. IberEval 2018 workshop of the SEPLN Conference September 18, 2018.
 - [2018] Best team at the Tasks 4: Good or Bad News? Emotional categorization of news articles. TASS 2018 workshop of the SEPLN Conference September 18, 2018.
-- [2017] Best paper award on the International Conference Similarity Search with Applications, SISAP 2017. _Self-indexed Motion Planning_, a joint work with A. Hoyos, U. Ruiz, and, E. Chavez}{.
+- [2017] Best paper award on the International Conference Similarity Search with Applications, SISAP 2017. _Self-indexed Motion Planning_, a joint work with A. Hoyos, U. Ruiz, and, E. Chavez.
 - [2017] First place award at RedICA Text-Image Matching (RICATIM) Challenge. September 7, 2017.
-- [2015] Best paper award on the Mexican Congress on Artificial Intelligence, COMIA 2015. _"Semantic Genetic Programming Operators Based on Projections in the Phenotype Space"_, a joint work with Mario Graff, Elio Villasenor, and Sabino Miranda-Jiménez}{} %{Succinct nearest neighbor search, a joint work with E. Chavez and G. Navarro}{.
-- [2011] Best paper award on the International Conference Similarity Search with Applications, SISAP 2011. _Succinct nearest neighbor search_, a joint work with E. Chavez and G. Navarro}{.
+- [2015] Best paper award on the Mexican Congress on Artificial Intelligence, COMIA 2015. _"Semantic Genetic Programming Operators Based on Projections in the Phenotype Space"_, a joint work with Mario Graff, Elio Villasenor, and Sabino Miranda-Jiménez. %{Succinct nearest neighbor search, a joint work with E. Chavez and G. Navarro.
+- [2011] Best paper award on the International Conference Similarity Search with Applications, SISAP 2011. _Succinct nearest neighbor search_, a joint work with E. Chavez and G. Navarro.
 - [2003] Honour Mention, Bachelor in Electrical Engineering.
 
 # Research Statistics.
