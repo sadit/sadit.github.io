@@ -31,10 +31,12 @@ The main set of functions are:
 - repository: <https://github.com/sadit/SimilaritySearch.jl>.
 - examples and demos: <https://sadit.github.io/SimilaritySearchDemos/> 
 
+### SpatialAccessTrees.jl
+
+**Links**
+- repository: <https://github.com/sadit/SpatialAccessTrees.jl>
 
 ### `InvertedFiles.jl`
-
-
 This package implements inverted files, also known as inverted indexes, that are data structures that represents a large sparse matrix, specially organized to compute some distance functions and fetch k nearest neighbors. It is mainly used for full text search and other search tasks where data can be formulated as large sparse vectors. In particular, the package implements three types of inverted files:
 
 - `WeightedInvertedFile`: Inverted files for sparse vectors, it can solve nearest neighbors using the normalized cosine distance, 
@@ -60,6 +62,19 @@ It is intended to be used with `SimilaritySearch.jl` and with the `InvertedFiles
 
 **Links**
 - repository: <https://github.com/sadit/TextSearch.jl>
+
+## Optimization
+### SearchModels.jl
+
+Provides a generic tool for minimizing model errors using stochastic search,
+which is often used whenever the problem has no concept of derivative.
+This kind of problems rely on large exploration of combinatorial spaces based on error function.
+
+It is the core for auto-tuning, and optimization in discrete domains, of other packages.
+
+**Links**
+- repository: <https://github.com/sadit/SearchModels.jl>
+
 
 ## Text classification, search and clustering
 - [EvoMSA] A Multilingual Evolutionary Approach for Sentiment Analysis.
