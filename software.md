@@ -21,11 +21,13 @@ ExhaustiveSearch: A brute force search index, each query is solved using a singl
 SearchGraph: An approximate search index with parallel construction.
 The main set of functions are:
 
-- `search`: Solves a single query.
-- `searchbatch`: Solves a set of queries.
-- `allknn`: Computes the nearest neighbors for all elements in an index.
-- `neardup`: Removes near-duplicates from a metric dataset.
-- `closestpair`: Computes the closest pair in a metric dataset.
+| type | description |
+|------|-------------|
+| `search` | Solves a single query.|
+| `searchbatch` | Solves a set of queries.|
+| `allknn` | Computes the nearest neighbors for all elements in an index.|
+| `neardup` | Removes near-duplicates from a metric dataset.|
+| `closestpair` | Computes the closest pair in a metric dataset.|
  
 **Links**
 - repository: <https://github.com/sadit/SimilaritySearch.jl>.
@@ -43,9 +45,11 @@ The package supports trading accuracy and search time strategies for spatial acc
 ### InvertedFiles.jl
 This package implements inverted files, also known as inverted indexes, that are data structures that represents a large sparse matrix, specially organized to compute some distance functions and fetch k nearest neighbors. It is mainly used for full text search and other search tasks where data can be formulated as large sparse vectors. In particular, the package implements three types of inverted files:
 
-- `WeightedInvertedFile`: Inverted files for sparse vectors, it can solve nearest neighbors using the normalized cosine distance, 
-- `BinaryInvertedFile`: Inverted file for sparse binary data, it can solve nearest neighbors using Jaccard, Dice, and Cosine distances, and also the intersection dissimilarity measure.
-- `KnrIndex`: An approximated similarity search index based on inverted files. It supports general metric spaces.
+| type | description |
+|------|-------------|
+| `WeightedInvertedFile` | Inverted files for sparse vectors, it can solve nearest neighbors using the normalized cosine distance, |
+| `BinaryInvertedFile` | Inverted file for sparse binary data, it can solve nearest neighbors using Jaccard, Dice, and Cosine distances, and also the intersection dissimilarity measure.|
+| `KnrIndex` | An approximated similarity search index based on inverted files. It supports general metric spaces.|
 
 These structs integrates with the SimilaritySearch `environment`, such that you can use it as a drop-in replacement of other indexes. In particular, inverted files are well-known for its scalability when the proper setup is used.
 
