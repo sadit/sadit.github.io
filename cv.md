@@ -30,6 +30,7 @@ tags = ["syntax", "code"]
 
 
 ## Professional preparation
+Studies
 
 - [2012-2013] Postdoctoral position. CONACyT project: "Superscalable metric datasebases". School of Mathematics and Physics. _Universidad Michoacana de San Nicolás de Hidalgo_, Michoacán, MX.
 - [2010] Research visitor. Under the supervision of the Prof. Dr. Gonzalo Navarro. Granted with "Beca Mixta" CONACyT-scholarship. Department of Computer Science at the _University of Chile_, Santiago, Chile.
@@ -79,9 +80,9 @@ tags = ["syntax", "code"]
 - [2003] Honour Mention, Bachelor in Electrical Engineering.
 
 ## Research Statistics
-- [Scholar Google] h-index: 15, Citations: 680.
+- [Scholar Google] h-index: 16, i10: 23, citations: 821.
   - <https://scholar.google.com/citations?hl=es&user=6hmLQWsAAAAJ&sortby=pubdate>.
-- [Scopus] h-index: 12, Citations: 390, Number of documents: 60.
+- [Scopus] h-index: 12, Citations: 487, Number of documents: 65.
   - <https://www.scopus.com/authid/detail.uri?authorId=18435018600>.
 
 ## Peer-reviewed Journal Publications
