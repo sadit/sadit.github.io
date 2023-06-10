@@ -109,11 +109,7 @@ A Julia package for creating text classifiers based on full model selection, mos
 - repository: <https://evomsa.readthedocs.io/en/docs/>
 
 
-- [SnowballStemmer.jl] A wrapper for the _libstemmer_ library.
-  - <https://github.com/sadit/SnowballStemmer.jl>.
-
-
-### Others
+## Others
 ### SearchModels.jl (optimization)
 
 Provides a generic tool for minimizing model errors using stochastic search,
@@ -136,4 +132,18 @@ A package that implements the UMAP algorithm for computing non-linear dimensiona
 
 **Links**
 - repository: <https://github.com/sadit/SimSearchManifoldLearning.jl>.
+
+### LevelDB.jl (key-value database)
+A leveldb wrapper, forked from `LevelDB.jl` package. This version has new key and value types, prefix-driven fetches, and use of newer leveldb through `LevelDB_jll` (a `BinaryBuilder`-based binary, also created with this purpose).
+
+Submitted for merging in original `LevelDB.jl`
+
+**Links**
+- repository: <https://github.com/sadit/LevelDB.jl>
+
+### SnowballStemmer.jl (stemmer)
+A wrapper for the _libstemmer_ library, extrated from [`TextAnalysis`](https://github.com/JuliaText/TextAnalysis.jl/). _Unmantained._
+
+**Links**
+- repository: <https://github.com/sadit/SnowballStemmer.jl>.
 
