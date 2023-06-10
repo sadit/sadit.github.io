@@ -10,7 +10,7 @@ tags = ["syntax", "code"]
 
 
 ## Similarity Search - Nearest Neighbor Search
-### `SimilaritySearch.jl`
+### SimilaritySearch.jl
 
 `SimilaritySearch.jl` is a library for nearest neighbor search. In particular, it contains the implementation for SearchGraph, a fast and flexible search index using any metric function. It is designed to support multithreading in most of its functions and structures.
 
@@ -63,18 +63,58 @@ Implements an innovative $k$-nearest neighbor search solution, Turbo Scan (TS), 
 `TextSearch.jl` is a package to create vector representations of text and seach them, mostly, independently of the language.
 It provides the following concepts:
 
-- `TextConfig`: Defines preprocessing pipelines.
-- `Vocabulary`: Text vocabularies.
-- `VectorModel`: Text vectorizers (sparse vectors) using global and local weighting schemes.
-- `BM25InvertedFile`: A full text inverted files using the BM25 score. 
+| type       | description |
+|------------|-------------|
+| `TextConfig` | Defines preprocessing pipelines. |
+| `Vocabulary` | Text vocabularies. |
+| `VectorModel` | Text vectorizers (sparse vectors) using global and local weighting schemes|
+| `BM25InvertedFile` | A full text inverted files using the BM25 score |
 
 It is intended to be used with `SimilaritySearch.jl` and with the `InvertedFiles` package. The `BM25InvertedFile` allows searching without using other packages.
 
 **Links**
 - repository: <https://github.com/sadit/TextSearch.jl>
 
-## Optimization
-### SearchModels.jl
+
+## Text classification
+
+
+### EvoMSA
+
+A Multilingual Evolutionary Approach for Sentiment Analysis.
+
+**Links**
+- repository: <https://github.com/INGEOTEC/EvoMSA>.
+- documentation: <https://evomsa.readthedocs.io/en/docs/>
+
+### MicroTC 
+$\mu$TC is an automated text categorization framework based on hyperparameter optimization 
+
+**Links**
+
+https://github.com/INGEOTEC/microtc>.
+
+### B4MSA
+A Simple Approach to Multilingual Polarity Classification in Twitter
+
+**Links**
+- repository: <https://github.com/INGEOTEC/b4msa>
+- documentation: <https://evomsa.readthedocs.io/en/docs/>
+
+### TextClassification.jl
+
+A Julia package for creating text classifiers based on full model selection, mostly based on MicroTC.
+
+**Links**
+- repository: <https://evomsa.readthedocs.io/en/docs/>
+
+
+- [SnowballStemmer.jl] A wrapper for the _libstemmer_ library.
+  - <https://github.com/sadit/SnowballStemmer.jl>.
+
+
+### Others
+### SearchModels.jl (optimization)
 
 Provides a generic tool for minimizing model errors using stochastic search,
 which is often used whenever the problem has no concept of derivative.
@@ -85,25 +125,15 @@ It is the core for auto-tuning, and optimization in discrete domains, of other p
 **Links**
 - repository: <https://github.com/sadit/SearchModels.jl>
 
+### KCenters.jl (k centers and clustering)
+A package that implements some algorithms for solving the K centers problem that integrates with `SimilaritySearch`.
 
-## Text classification, search and clustering
-- [EvoMSA] A Multilingual Evolutionary Approach for Sentiment Analysis.
-  - <https://github.com/INGEOTEC/EvoMSA>.
-- [$\mu$TC] An automated text categorization framework based on hyperparameter optimization}
-  - <https://github.com/INGEOTEC/microtc>.
-- [B4MSA] A Simple Approach to Multilingual Polarity Classification in Twitter.
-  -  <https://github.com/INGEOTEC/b4msa>.
-- [TextSearch.jl] A package for creating text models and full-text indexes for the Julia language.
-  - <https://github.com/sadit/TextSearch.jl>.
-- [TextClassification.jl] A package for creating text classifiers based on full model selection.
-  - <https://github.com/sadit/TextClassification.jl>.
-- [SnowballStemmer.jl] A wrapper for the _libstemmer_ library.
-  - <https://github.com/sadit/SnowballStemmer.jl>.
+**Links**
+- repository: <https://github.com/sadit/KCenters.jl>.
 
-## K centers problem and non-linear dimension reduction
+### SimSearchManifoldLearning.jl (non-linear dimensional reduction)
+A package that implements the UMAP algorithm for computing non-linear dimensional projections. It uses the `SimilaritySearch` package for speeding up the construction of the $k$nn graph and predictions. It also implements the necessary methods to use `SimilaritySearch` with external manifold learning methods, like those defined in the `ManifoldLearning` package.
 
-- [KCenters.jl] A package that implements some algorithms for solving the K centers problem that integrates with `SimilaritySearch`.
-  - <https://github.com/sadit/KCenters.jl>.
-- [SimSearchManifoldLearning.jl] A package that implements the UMAP algorithm for computing non-linear dimensional projections. It uses the `SimilaritySearch` package for speeding up the construction of the $k$nn graph and predictions. It also implements the necessary methods to use `SimilaritySearch` with external manifold learning methods, like those defined in the `ManifoldLearning` package.
-  - <https://github.com/sadit/SimSearchManifoldLearning.jl>.
+**Links**
+- repository: <https://github.com/sadit/SimSearchManifoldLearning.jl>.
 
