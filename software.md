@@ -151,3 +151,8 @@ A wrapper for the _libstemmer_ library, extrated from [`TextAnalysis`](https://g
 **Links**
 - repository: <https://github.com/sadit/SnowballStemmer.jl>.
 
+### BILMA
+Bert in Latinamerica. A set of language models (BERT-based with Keras) for regional spanish models.
+
+**Links**
+- <https://github.com/msubrayada/bilma>
