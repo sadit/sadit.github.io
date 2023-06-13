@@ -96,7 +96,8 @@ $\mu$TC is an automated text categorization framework based on hyperparameter op
 
 **Links**
 
-https://github.com/INGEOTEC/microtc>.
+- <https://github.com/INGEOTEC/microtc>.
+- <https://microtc.readthedocs.io/en/docs/>
 
 ### B4MSA
 A Simple Approach to Multilingual Polarity Classification in Twitter
@@ -151,8 +152,17 @@ A wrapper for the _libstemmer_ library, extrated from [`TextAnalysis`](https://g
 **Links**
 - repository: <https://github.com/sadit/SnowballStemmer.jl>.
 
+### Text\_models
+Simplifica el acceso a información léxica en lenguajes árabe, inglés, español y ruso, e información de movilidad de viajeros en más de 200 regiones del planeta. Organizada por día y por región, la información es extraída de mensajes en el _stream_ público de Twitter.
+La idea es simplificar el acceso a esta información para grupos de investigación que hagan uso de la misma. Esta biblioteca ha sido utilizada para detección de eventos (e.g., desastres naturales), el Índice de Movilidad COVID-19, además que es utilizada por otros grupos de investigación como es el caso de INEGI para su _Indicador Oportuno de la Actividad Económica_ [Variable `Movilidad Twitter`](https://www.inegi.org.mx/investigacion/ioae/).
+El proyecto esta documentado y tiene ejemplos prácticos de uso.
+
+- Documentación y uso: <https://text-models.readthedocs.io/en/latest/>
+- repo: <https://github.com/INGEOTEC/text_models>.
+
 ### BILMA
 Bert in Latinamerica. A set of language models (BERT-based with Keras) for regional spanish models.
 
 **Links**
 - <https://github.com/msubrayada/bilma>
+
