@@ -192,7 +192,11 @@ Studies
 - [2021] Enrique Isidoro Vázquez Ramos. Measuring possible depression cases through text analysis in Mexican Tweeters (in Spanish). **M.Eng.** student. INFOTEC Centro de Investigación e Innovación en Tecnologías de las Información y Comunicación.  Co-supervisor Dr. Sabino Miranda-Jimenez.
 - [2020] Jose Ortiz Bejar. A Family of Classifiers based on Feature Space Transformations and Model Selection. **Ph.D.**. 2nd place in best thesis award by Mexican Artificial Intelligence Society (2020). INFOTEC Centro de Investigación e Innovación en Tecnologías de las Información y Comunicación. Co-supervisor Dr. Mario Graff.
 - [2020] Luis Alberto Nava Ordoñez. Modelo conceptual de gestión estratégica para la representación de conocimiento aplicando técnicas de analítica de datos y web semántica. **Ph.D.** student. Universidad Popular Autónoma del Estado de Puebla. Co-supervisor Dr. Daniel Villanueva.
-- [..] Supervising and co-supervising other phd-students and master students.
+- Oct. 12th, 2020, the thesis of Dr. Ortiz _A Family of Classifiers based on Feature Space Transformations and Model Selection_ achieved the third place of the _José Negrete Martínez_ award by the Mexican Society for Artificial Intelligenc (SMIA).
+- 2021 Dr. Ortiz also was accepted by the National Research System (SNI), level 1.
+- I was part of the Thesis Committee of Dra. Claudia Nallely Sánchez Gómez, graduated in 2020 under the supervision of Dr. Mario Graff (INFOTEC).
+  She was awarded with the 2nd place by SMIA's price _José Negrete Martínez_ (2020). Accepted in 2021 in the SNI at level C.
+- Supervising and co-supervising other phd-students and master students.
 
 <!-- # Editor / Reviewer Experience. -->
 
