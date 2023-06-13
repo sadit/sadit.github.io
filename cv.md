@@ -5,6 +5,9 @@ date = Date(2023, 06, 08)
 tags = ["syntax", "code"]
 +++
 
+# Curriculum vitae
+\toc
+
 ## Current activities - 2023
 
 - Charla en el seminario del posgrado de CICESE Ensenada "Recursos regionalizado para el procesamiento automático usando datos de redes sociales (Twitter)" (27 de enero 2023, <https://www.youtube.com/watch?v=7yoIa05rAWI>)
@@ -13,12 +16,10 @@ tags = ["syntax", "code"]
 - Actualmente soy miembro del SNI con nivel 2.
 - Co-organizando el _SISAP2023 Challenge_ <https://sisap-challenges.github.io/> con Edgar Chavez y Martin Aumüller.
 - Co-organizando la sesión especial _Vision and Language_ con Daniela Moctezuma <https://ropec.org/vision-and-language/>.
-- PC member SISAP 2023
+- PC member SISAP 2023, SISAP doctoral consortium (PC member?)
 - PC member COMIA 2023
 - PC member EMNLP 2023
 - Miembro de la comisión dictaminadora del SNI área IX
-
-\toc
 
 ## Personal information
 
@@ -138,9 +139,11 @@ Studies
   - <https://github.com/sadit/SimSearchManifoldLearning.jl>.
 
 ## Invited Presentations
-- Aguas con la ciencia
+
+
+- Ponente en la conferencia del café científico **Aguas con la ciencia**: "Me lo contó un pajarito" lo que Twitter le dice a la Ciencia. Charlas de divulgación de la ciencia organizadas por INFOTEC, CIMAT, INEGI, UP (todas estas instituciones en su sede Aguascalientes). Agosto 2021. 
+- Ponente en XVIII Conferencia Internacional sore Bibliotecas Universitarias en línea (Dirección General de Bibliotecas y Servicios Digitales de Información de la UNAM) dentro del panel "Capacidades lectoras, informativas, digitales, transmedia y de investigación en la formación de los profesionales del futuro". Octubre 2021.
 - CIMAT
-- Bibliotecas UNAM
 - UNAM 
 - Seminario cicese
 
