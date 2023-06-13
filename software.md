@@ -79,9 +79,17 @@ It is intended to be used with `SimilaritySearch.jl` and with the `InvertedFiles
 **Links**
 - repository: <https://github.com/sadit/TextSearch.jl>
 
+### NATIX
+The natix library contains several exact and approximate nearest neighbor search algorithm, mostly developed during my PhD project.
+It also contains several intersection and t-threshold algorithms and compact data structures. 
+The focus of the library was the exploration of compact and compressed indexes for approximate nearest neighbor search.
+
+It contains the canonical implementation of the `CNAPP`, a compressed inverted file for approximate metric search.
+
+**Links**
+- <https://github.com/sadit/natix>
 
 ## Text classification
-
 
 ### EvoMSA
 
@@ -137,6 +145,12 @@ A package that implements the UMAP algorithm for computing non-linear dimensiona
 
 **Links**
 - repository: <https://github.com/sadit/SimSearchManifoldLearning.jl>.
+
+### Intersections.jl (intersection algorithms)
+Several intersection algorithms working on the comparison model, base for `InvertedFiles.jl`
+
+**Links**
+-- <https://github.com/sadit/Intersections.jl>
 
 ### LevelDB.jl (key-value database)
 A leveldb wrapper, forked from `LevelDB.jl` package. This version has new key and value types, prefix-driven fetches, and use of newer leveldb through `LevelDB_jll` (a `BinaryBuilder`-based binary, also created with this purpose).

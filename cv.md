@@ -13,7 +13,6 @@ tags = ["syntax", "code"]
 - Charla en el seminario del posgrado de CICESE Ensenada "Recursos regionalizado para el procesamiento automático usando datos de redes sociales (Twitter)" (27 de enero 2023, <https://www.youtube.com/watch?v=7yoIa05rAWI>)
 - En el programa _Investigadoras e Investigadores por México_ de CONHACyT desde 2014 comisionado a INFOTEC Aguascalientes.
 - En estancia sabática de agosto 2022 a julio 2023 en Ensenada, Baja California.
-- Actualmente soy miembro del SNI con nivel 2.
 - Co-organizando el _SISAP2023 Challenge_ <https://sisap-challenges.github.io/> con Edgar Chavez y Martin Aumüller.
 - Co-organizando la sesión especial _Vision and Language_ con Daniela Moctezuma <https://ropec.org/vision-and-language/>.
 - PC member SISAP 2023, SISAP doctoral consortium (PC member?)
@@ -31,7 +30,6 @@ tags = ["syntax", "code"]
 
 
 ## Professional preparation
-Studies
 
 - [2012-2013] Postdoctoral position. CONACyT project: "Superscalable metric datasebases". School of Mathematics and Physics. _Universidad Michoacana de San Nicolás de Hidalgo_, Michoacán, MX.
 - [2010] Research visitor. Under the supervision of the Prof. Dr. Gonzalo Navarro. Granted with "Beca Mixta" CONACyT-scholarship. Department of Computer Science at the _University of Chile_, Santiago, Chile.
@@ -141,11 +139,12 @@ Studies
 ## Invited Presentations
 
 
-- Ponente en la conferencia del café científico **Aguas con la ciencia**: "Me lo contó un pajarito" lo que Twitter le dice a la Ciencia. Charlas de divulgación de la ciencia organizadas por INFOTEC, CIMAT, INEGI, UP (todas estas instituciones en su sede Aguascalientes). Agosto 2021. 
+- Ponente en la conferencia del café científico **Aguas con la ciencia**: _Me lo contó un pajarito_ lo que Twitter le dice a la Ciencia. Charlas de divulgación de la ciencia organizadas por INFOTEC, CIMAT, INEGI, UP (todas estas instituciones en su sede Aguascalientes). Agosto 2021. 
 - Ponente en XVIII Conferencia Internacional sore Bibliotecas Universitarias en línea (Dirección General de Bibliotecas y Servicios Digitales de Información de la UNAM) dentro del panel "Capacidades lectoras, informativas, digitales, transmedia y de investigación en la formación de los profesionales del futuro". Octubre 2021.
 - CIMAT
 - UNAM 
 - Seminario cicese
+- Ponente en el XLIX congreso de la Sociedad Mexicana de Matemáticas con la charla _Un enfoque sencillo para la clasificación de polaridad multilenguaje en Twitter_, Aguascalientes, México, 2016. 
 
 ## Conferences and Workshops
 - [ROPEC 2022] Ortiz-Bejar, J., Solorzano-Rodríguez, A. A., Silva-Chávez, J. C., Tellez, E. S., Graff, M., & Ortiz-Bejar, J. (2022, November). Sampling Algorithms for Unsupervised Prototype Selection. In 2022 IEEE International Autumn Meeting on Power, Electronics and Computing (ROPEC) (Vol. 6, pp. 1-6). IEEE.
