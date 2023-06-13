@@ -23,6 +23,7 @@ Durante este último periodo de evaluación, y a raíz de la pandemia de COVID-1
 Recursos regionalizados para el español usando datos de Twitter. Vocabularios, word-embeddings, visualizaciones, modelos de lenguaje, todos para el español de las principales regiones hispanohablantes.
 - <https://ingeotec.github.io/regional-spanish-models/>
 - <https://github.com/msubrayada/bilma>
+- <https://sadit.github.io/regional-spanish-models-talk-2022/>
 
 ## Participación en proyectos CONACyT
 
