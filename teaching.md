@@ -35,26 +35,3 @@ Tutorial sobre algoritmos exactos y aproximados para búsqueda métrica
 
 - <https://sadit.github.io/similarity-search-talk-2021/>
 
-### SimilaritySearch.jl
-
-`SimilaritySearch.jl` is a library for nearest neighbor search. In particular, it contains the implementation for SearchGraph, a fast and flexible search index using any metric function. It is designed to support multithreading in most of its functions and structures.
-
-The package provides the following indexes:
-
-ParallelExhaustiveSearch: A brute force search index where each query is solved using all available threads.
-ExhaustiveSearch: A brute force search index, each query is solved using a single thread.
-SearchGraph: An approximate search index with parallel construction.
-The main set of functions are:
-
-| type          | description |
-|---------------|-------------|
-| `search`      | Solves a single query.|
-| `searchbatch` | Solves a set of queries.|
-| `allknn`      | Computes the nearest neighbors for all elements in an index.|
-| `neardup`     | Removes near-duplicates from a metric dataset.|
-| `closestpair` | Computes the closest pair in a metric dataset.|
- 
-**Links**
-- repository: <https://github.com/sadit/SimilaritySearch.jl>.
-- examples and demos: <https://sadit.github.io/SimilaritySearchDemos/> 
-
