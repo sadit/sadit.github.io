@@ -35,3 +35,11 @@ Tutorial sobre algoritmos exactos y aproximados para búsqueda métrica
 
 - <https://sadit.github.io/similarity-search-talk-2021/>
 
+# Seminarios
+
+## Seminario de investigación - DCCD - 2023
+Seminario de investigación donde se invita a investigadores destacados en sus disciplinas para compartir sus investigaciones.
+Los alumnos también presentan sus avances y obtienen retroalimentación. 
+
+Liga a la página del seminario: <seminario-2023/>
+
