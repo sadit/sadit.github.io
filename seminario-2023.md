@@ -36,15 +36,16 @@ Muchas gracias
 </div>
 </div>
 </div>
-~~~
 
+<div>
 Nota: Los horarios, fechas y horarios pueden cambiar por diversos motivos, por lo que
 la siguiente planeación es de caracter informativo.
-
+</div>
+~~~
 
 Calendario:
 ```
-         August                September
+       August                September
 Su Mo Tu We Th Fr Sa   Su Mo Tu We Th Fr Sa
        1  2  3  4  5                   1  2
  6  7  8  9 10 11 12    3  4  5  6  7  8  9
@@ -66,10 +67,10 @@ Su Mo Tu We Th Fr Sa   Su Mo Tu We Th Fr Sa   Su Mo Tu We Th Fr Sa
 
 ## Agosto
 
-- 8 de agosto: Bienvenida, presentación y charla de mi parte
+- 8 de agosto: Bienvenida, presentación. Angello Hoyos - <angello.hoyos@cimat.mx>.
 - 22 de agosto: Helena Gomez Adiorno. IIMAS UNAM.
    - Sitio web: <https://helenagomez-adorno.github.io/>
-   - Perfil [Google Scholar](https://scholar.google.com.mx/citations?user=DyWLqF0AAAAJ&hl=es)
+   - Perfil: [Google Scholar](https://scholar.google.com.mx/citations?user=DyWLqF0AAAAJ&hl=es)
 
 - 29 de agosto: Jesús Hiram. Estudiante de doctorado de INFOTEC con la charla sobre su participación en PoliticES y PoliticIT.
 
@@ -84,7 +85,8 @@ Su Mo Tu We Th Fr Sa   Su Mo Tu We Th Fr Sa   Su Mo Tu We Th Fr Sa
 - 17 de octubre: Ángel. UABC
 
 ## Noviembre
--  7 de noviembre: Ubaldo Ruiz
+-  7 de noviembre: Ubaldo Ruiz. CICESE.
+- 
 - 21 de noviembre: Avances de alumnos
 - 28 de noviembre: Avances de alumnos
 
