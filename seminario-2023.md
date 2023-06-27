@@ -68,7 +68,7 @@ Su Mo Tu We Th Fr Sa   Su Mo Tu We Th Fr Sa   Su Mo Tu We Th Fr Sa
 ## Agosto
 
 - 8 de agosto: Bienvenida, presentación. Angello Hoyos - <angello.hoyos@cimat.mx>.
-- 22 de agosto: Helena Gomez Adiorno. IIMAS UNAM.
+- 22 de agosto: Helena Gomez Adorno. IIMAS UNAM.
    - Sitio web: <https://helenagomez-adorno.github.io/>
    - Perfil: [Google Scholar](https://scholar.google.com.mx/citations?user=DyWLqF0AAAAJ&hl=es)
 
