@@ -41,5 +41,5 @@ Tutorial sobre algoritmos exactos y aproximados para búsqueda métrica
 Seminario de investigación donde se invita a investigadores destacados en sus disciplinas para compartir sus investigaciones.
 Los alumnos también presentan sus avances y obtienen retroalimentación. 
 
-Liga a la página del seminario: <seminario-2023/>
+- [Sitio del seminario](/seminario-2023/)
 

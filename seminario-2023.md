@@ -7,32 +7,51 @@ date = Date(2023, 06, 27)
 tags = ["DCCC", "seminario de investigación"]
 +++
 
+~~~
+<div>
+<p>Estimad@s</p>
 
-Estimad@s
-
+<p>
 El seminario de investigación del 2do semestre de 2023 estará a mi cargo,
 para el cual nos encontramos invitando a investigador@s destacad@s en sus 
 disciplinas, así como de alumnas y alumnos del doctorado, tanto para evaluar
 sus avances como para quienes lo soliciten y obtener retroalimentació, e.g.,
 presentaciones de congresos.
+</p>
 
+<p>
 Las charlas serán en su mayoría virtuales y las ligas a las videoconfrencias
 se estarán repartiendo por los correos del doctorado.
+Se intentará que las charlas sean en su mayoría los martes a las 12:00am - 14:00pm,
+pero nos ajustaremos ajustandonos a los horarios de quienes nos presentan. 
 
-~~~~~~Muchas gracias
-~~~~~~Eric S. Tellez
-~~~~~~<mailto:eric.tellez@infotec.mx>
+</p>
 
 
+<div style="text-align: right;">
+Muchas gracias
+<div>Eric S. Tellez
+    <div><mailto:eric.tellez@infotec.mx></div>
+    <div>CONHACyT - INFOTEC</div>
+</div>
+</div>
+</div>
+~~~
+
+Nota: Los horarios, fechas y horarios pueden cambiar por diversos motivos, por lo que
+la siguiente planeación es de caracter informativo.
+
+
+Calendario:
 ```
-        July                  August                September
-Su Mo Tu We Th Fr Sa   Su Mo Tu We Th Fr Sa   Su Mo Tu We Th Fr Sa
-                   1          1  2  3  4  5                   1  2
- 2  3  4  5  6  7  8    6  7  8  9 10 11 12    3  4  5  6  7  8  9
- 9 10 11 12 13 14 15   13 14 15 16 17 18 19   10 11 12 13 14 15 16
-16 17 18 19 20 21 22   20 21 22 23 24 25 26   17 18 19 20 21 22 23
-23 24 25 26 27 28 29   27 28 29 30 31         24 25 26 27 28 29 30
-30 31
+         August                September
+Su Mo Tu We Th Fr Sa   Su Mo Tu We Th Fr Sa
+       1  2  3  4  5                   1  2
+ 6  7  8  9 10 11 12    3  4  5  6  7  8  9
+13 14 15 16 17 18 19   10 11 12 13 14 15 16
+20 21 22 23 24 25 26   17 18 19 20 21 22 23
+27 28 29 30 31         24 25 26 27 28 29 30
+
        October               November               December
 Su Mo Tu We Th Fr Sa   Su Mo Tu We Th Fr Sa   Su Mo Tu We Th Fr Sa
  1  2  3  4  5  6  7             1  2  3  4                   1  2
@@ -47,10 +66,28 @@ Su Mo Tu We Th Fr Sa   Su Mo Tu We Th Fr Sa   Su Mo Tu We Th Fr Sa
 
 ## Agosto
 
+- 8 de agosto: Bienvenida, presentación y charla de mi parte
+- 22 de agosto: Helena Gomez Adiorno. IIMAS UNAM.
+   - Sitio web: <https://helenagomez-adorno.github.io/>
+   - Perfil [Google Scholar](https://scholar.google.com.mx/citations?user=DyWLqF0AAAAJ&hl=es)
+
+- 29 de agosto: Jesús Hiram. Estudiante de doctorado de INFOTEC con la charla sobre su participación en PoliticES y PoliticIT.
+
+<!-- 
 ## Septiembre
+- 5 septiembre: Edgar Chavez. CICESE.
+   - Perfil [Google Scholar](https://scholar.google.com/citations?user=PpDSd7oAAAAJ&hl=es)
+- 19 de septiembre: Pepe o Zamorita
 
 ## Octubre
+- 3 de octubre: Pepe o Zamorita
+- 17 de octubre: Ángel. UABC
 
 ## Noviembre
+-  7 de noviembre: Ubaldo Ruiz
+- 21 de noviembre: Avances de alumnos
+- 28 de noviembre: Avances de alumnos
 
 ## Diciembre
+- 5 de diciembre: Avances de alumnos
+-->
