@@ -78,7 +78,7 @@ Su Mo Tu We Th Fr Sa   Su Mo Tu We Th Fr Sa   Su Mo Tu We Th Fr Sa
 ## Septiembre
 - 5 septiembre: Edgar Chavez. CICESE.
    - Perfil [Google Scholar](https://scholar.google.com/citations?user=PpDSd7oAAAAJ&hl=es)
-- 19 de septiembre: Pepe o Zamorita
+- 19 de septiembre: José Ortiz Bejar. UMSNH.
 
 ## Octubre
 - 3 de octubre: Pepe o Zamorita
