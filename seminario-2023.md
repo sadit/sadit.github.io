@@ -15,7 +15,7 @@ tags = ["DCCC", "seminario de investigación"]
 El seminario de investigación del 2do semestre de 2023 estará a mi cargo,
 para el cual nos encontramos invitando a investigador@s destacad@s en sus 
 disciplinas, así como de alumnas y alumnos del doctorado, tanto para evaluar
-sus avances como para quienes lo soliciten y obtener retroalimentació, e.g.,
+sus avances como para quienes lo soliciten y obtener retroalimentación, e.g.,
 presentaciones de congresos.
 </p>
 
@@ -23,7 +23,7 @@ presentaciones de congresos.
 Las charlas serán en su mayoría virtuales y las ligas a las videoconfrencias
 se estarán repartiendo por los correos del doctorado.
 Se intentará que las charlas sean en su mayoría los martes a las 12:00am - 14:00pm,
-pero nos ajustaremos ajustandonos a los horarios de quienes nos presentan. 
+pero nos ajustaremos a los horarios de quienes nos presentan. 
 
 </p>
 
@@ -32,7 +32,7 @@ pero nos ajustaremos ajustandonos a los horarios de quienes nos presentan.
 Muchas gracias
 <div>Eric S. Tellez
     <div><mailto:eric.tellez@infotec.mx></div>
-    <div>CONHACyT - INFOTEC</div>
+    <div>CONAHCyT - INFOTEC</div>
 </div>
 </div>
 </div>
@@ -67,12 +67,11 @@ Su Mo Tu We Th Fr Sa   Su Mo Tu We Th Fr Sa   Su Mo Tu We Th Fr Sa
 
 ## Agosto
 
-- 8 de agosto: Angello Hoyos - _angello.hoyos at cimat.mx_. Con la charla _Hadamard layer to improve semantic segmantation_. 
-- 22 de agosto: Helena Gomez Adorno. IIMAS UNAM.
+- 8 de agosto: Angello Hoyos. CIMAT. Con la charla _Hadamard layer to improve semantic segmantation_. 
+- 22 de agosto: Helena Gomez Adorno. IIMAS UNAM. Titulo por definir.
    - [Página web](https://helenagomez-adorno.github.io)
-   - Perfil: [Google Scholar](https://scholar.google.com.mx/citations?user=DyWLqF0AAAAJ&hl=es)
 
-- 29 de agosto: Jesús Hiram. Estudiante de doctorado de INFOTEC con la charla sobre su participación en PoliticES y PoliticIT.
+- 29 de agosto: Jesús Hiram. Estudiante de doctorado de INFOTEC. Con la charla sobre su participación en PoliticES y PoliticIT (titulo por definir).
 
 <!-- 
 ## Septiembre
@@ -81,7 +80,7 @@ Su Mo Tu We Th Fr Sa   Su Mo Tu We Th Fr Sa   Su Mo Tu We Th Fr Sa
 - 19 de septiembre: José Ortiz Bejar. UMSNH.
 
 ## Octubre
-- 3 de octubre: Pepe o Zamorita
+- 3 de octubre: Alejandro Zamora - UMSNH.
 - 17 de octubre: Ángel. UABC
 
 ## Noviembre
