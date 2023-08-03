@@ -67,7 +67,7 @@ Su Mo Tu We Th Fr Sa   Su Mo Tu We Th Fr Sa   Su Mo Tu We Th Fr Sa
 
 ## Agosto
 
-- 8 de agosto: Bienvenida, presentación. Angello Hoyos - _angello.hoyos at cimat.mx_.
+- 8 de agosto: Angello Hoyos - _angello.hoyos at cimat.mx_. Con la charla _Hadamard layer to improve semantic segmantation_. 
 - 22 de agosto: Helena Gomez Adorno. IIMAS UNAM.
    - [Página web](https://helenagomez-adorno.github.io)
    - Perfil: [Google Scholar](https://scholar.google.com.mx/citations?user=DyWLqF0AAAAJ&hl=es)
