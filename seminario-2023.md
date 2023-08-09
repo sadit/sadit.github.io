@@ -41,6 +41,7 @@ Muchas gracias
 Nota: Los horarios, fechas y horarios pueden cambiar por diversos motivos, por lo que
 la siguiente planeación es de caracter informativo.
 </div>
+<div>----</div>
 ~~~
 
 Calendario:
@@ -67,8 +68,8 @@ Su Mo Tu We Th Fr Sa   Su Mo Tu We Th Fr Sa   Su Mo Tu We Th Fr Sa
 
 ## Agosto
 
-- 8 de agosto: Angello Hoyos. CIMAT. Con la charla _Hadamard layer to improve semantic segmentation_. 
-- 22 de agosto: Helena Gomez Adorno. IIMAS UNAM. Titulo por definir.
+- 8 de agosto: Angello Hoyos. CIMAT. Titulo de la charla _Hadamard layer to improve semantic segmentation_. 
+- 22 de agosto: Helena Gomez Adorno. IIMAS UNAM. Titulo de la charla _Graph-based Authorship Verification_.
    - [Página web](https://helenagomez-adorno.github.io)
 
 - 29 de agosto: Jesús Hiram. Estudiante de doctorado de INFOTEC. Con la charla sobre su participación en PoliticES y PoliticIT (titulo por definir).
