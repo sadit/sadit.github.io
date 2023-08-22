@@ -72,7 +72,8 @@ Su Mo Tu We Th Fr Sa   Su Mo Tu We Th Fr Sa   Su Mo Tu We Th Fr Sa
 - 22 de agosto: Helena Gomez Adorno. IIMAS UNAM. Titulo de la charla _Graph-based Authorship Verification_.
    - [Página web](https://helenagomez-adorno.github.io)
 
-- 29 de agosto: Jesús Hiram. Estudiante de doctorado de INFOTEC. Con la charla sobre su participación en PoliticES y PoliticIT (titulo por definir).
+- 29 de agosto: Jesús Hiram. Estudiante de doctorado de INFOTEC. Con la chara: Exploring Non-Linear Low-Dimensional Projections for Textual Data Analysis: Insights from the PoliticIT and PoliticEs Challenges.
+
 
 <!-- 
 ## Septiembre
