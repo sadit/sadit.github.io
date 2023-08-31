@@ -74,13 +74,10 @@ Su Mo Tu We Th Fr Sa   Su Mo Tu We Th Fr Sa   Su Mo Tu We Th Fr Sa
 
 - 29 de agosto: Jesús Hiram. Estudiante de doctorado de INFOTEC. Con la chara: Exploring Non-Linear Low-Dimensional Projections for Textual Data Analysis: Insights from the PoliticIT and PoliticEs Challenges.
 
-
-<!-- 
 ## Septiembre
-- 5 septiembre: Edgar Chavez. CICESE.
-   - Perfil [Google Scholar](https://scholar.google.com/citations?user=PpDSd7oAAAAJ&hl=es)
-- 19 de septiembre: José Ortiz Bejar. UMSNH.
+- 5 septiembre: Edgar Chavez. CICESE. Con la charla: Recuperación de Nubes de Puntos y Transformación Invariante a Semejanzas en 2D. 
 
+<!--
 ## Octubre
 - 3 de octubre: Alejandro Zamora - UMSNH.
 - 17 de octubre: Ángel. UABC
